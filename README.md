@@ -10,6 +10,12 @@ Puedes consutlar nuestros otros talleres en [https://www.algoritmia-gda.club/](h
  - ¿Qué es el DOM? 
  - ¿Qué son Arrow Functions? 
  - ¿Qué son las promesas? 
+ - Manipulando el DOM
+ - Creando función asíncrona para hacer el fetch
+ - Utilizando promesa del API
+ - Actualizando el DOM
+ - Usando API e Twitter con argumentos
+
 
 ## Recursos útiles
 
